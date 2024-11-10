@@ -1,0 +1,3 @@
+Backtracking 0.0000002
+Branch & Bound 0.0000001
+Dynamic Programming 0.0000001
